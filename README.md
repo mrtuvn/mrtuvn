@@ -21,7 +21,7 @@ I am currently working as a Frontend Engineer for [Ecommage](https://github.com/
 
 ![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&count_private=true&show_icons=true&hide_title=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact&hide_title=true)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact&hide_title=true)
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
