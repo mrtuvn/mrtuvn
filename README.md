@@ -12,7 +12,7 @@
 
 I am currently working as a Frontend Engineer for [Ecommage](https://github.com/ecommage). Outside of work, I contribute to open source libraries such as [magento/magento2](https://github.com/magento/magento2) and various other libraries. 👋
 
-![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&count_private=true&show_icons=true&hide_title=true)
+![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&show_icons=true&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact&hide_title=true)
 
