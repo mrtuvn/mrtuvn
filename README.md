@@ -10,7 +10,7 @@
               ||     ||
 </pre>
 
-I am currently working as a Frontend Engineer for [Ecommage](https://github.com/ecommage). Outside of work, I contribute to open source libraries such as [magento/magento2](https://github.com/magento/magento2) and various other libraries. 👋
+I am currently working as a Frontend Engineer role. Self-employed! Self-learned. In free time I contribute to open source libraries such as [magento/magento2](https://github.com/magento/magento2) and various other libraries. 👋
 
 ![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&show_icons=true&hide_title=true)
 
