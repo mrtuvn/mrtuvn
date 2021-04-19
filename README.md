@@ -22,9 +22,17 @@ I have certified Expert-Magento Commerce Front-End issued by Adobe
   }
 ```
 
-![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&show_icons=true&hide_title=true&theme=synthwave)
+![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&show_icons=true&theme=synthwave)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact)
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+
+## Spotify Playing 🎧
+<img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+[![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/8OGIOFQvRtm57Fn_GfUltw)
+
+## 📫 Reach out to me on
+[![Header](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtuvn/)
