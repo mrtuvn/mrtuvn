@@ -32,7 +32,7 @@ I have certified Expert-Magento Commerce Front-End issued by Adobe
 ## Spotify Playing 🎧
 <img align="right" alt="GIF" height="220px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-[![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/8OGIOFQvRtm57Fn_GfUltw)
+[![Spotify](https://spotify-e1dwlkj4j.vercel.app/api/spotify)](https://open.spotify.com/user/mrtuvn?si=kd3JGsbwRZGOP1KyqwUNVQ)
 
 ## 📫 Reach out to me on
 [![Header](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrtuvn/)
