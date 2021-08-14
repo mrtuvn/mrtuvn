@@ -22,9 +22,9 @@ I have certified Expert-Magento Commerce Front-End issued by Adobe
   }
 ```
 
-![mrtuvn's github stats](https://github-readme-stats.vercel.app/api?username=mrtuvn&show_icons=true&theme=synthwave)
+<img alt="mrtuvn's github stats" src="https://github-readme-stats.vercel.app/api?username=mrtuvn&count_private=true&show_icons=true&theme=synthwave" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact)
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrtuvn&layout=compact" />
 
 ### and just a funny gif...😛
 ![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
